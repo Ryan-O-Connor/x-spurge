@@ -1,0 +1,2 @@
+EXTERNAL = 1
+INTERNAL = -1
